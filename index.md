@@ -1,6 +1,4 @@
-Lorem ipsum dolor sit amet.
-
-[button url="http://www.google.com"]
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
 
 <a onclick="window.history.back()">Back</a>
 ## Bienvenidos a mi Blog
