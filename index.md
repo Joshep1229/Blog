@@ -1,4 +1,5 @@
-![image-title-here](https://static.iris.net.co/semana/upload/images/2016/6/13/477553_1.jpg){:class="img-responsive"}
+![image-title-here](https://static.iris.net.co/semana/upload/images/2016/6/13/477553_1.jpg){:class="img-responsive"} {:height="700px" width="400px"}
+
 
 <div class="share-page">
     Share this on &rarr;
