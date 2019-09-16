@@ -1,6 +1,10 @@
-<button name="button">Click me</button>
+<div class="share-page">
+    Share this on &rarr;
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+</div>
 
-<a onclick="window.history.back()">Back</a>
 ## Bienvenidos a mi Blog
 Alguien muy especial me dijo que hiciera un portafolio sobre las cosas que he hecho, además que es muy genial poder compartir lo que haces con los demás, también porque siempre he sido consumidor de muchos blogs.
 
