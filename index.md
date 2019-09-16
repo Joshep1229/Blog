@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi Blog
 
-You can use the [editor on GitHub](https://github.com/Joshep1229/Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+El objetivo de este blog será tener un record del contenido que me sirve para aprender, principalmente cosas como lo relacionado con análisis de datos, tratamiento, visualización de datos y demás.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aunque mi  especialidad no es el desarrollo web en este lugar iré iterando para refinar el blog también porque es mucho más fácil volver a revisar los apuntes si los tienes en el mismo lugar para consultar.  
 
 ### Markdown
 
