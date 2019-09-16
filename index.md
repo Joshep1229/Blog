@@ -1,3 +1,7 @@
+Lorem ipsum dolor sit amet.
+
+[button url="http://www.google.com"]
+
 <a onclick="window.history.back()">Back</a>
 ## Bienvenidos a mi Blog
 Alguien muy especial me dijo que hiciera un portafolio sobre las cosas que he hecho, además que es muy genial poder compartir lo que haces con los demás, también porque siempre he sido consumidor de muchos blogs.
