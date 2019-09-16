@@ -1,4 +1,4 @@
-![https://en.wikipedia.org/wiki/Timeline_of_LinkedIn#/media/File:Linkedin.svg](/path/to/image.jpg){:class="img-responsive"}
+![image-title-here](https://static.iris.net.co/semana/upload/images/2016/6/13/477553_1.jpg){:class="img-responsive"}
 
 <div class="share-page">
     Share this on &rarr;
