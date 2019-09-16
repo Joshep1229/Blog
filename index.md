@@ -1,4 +1,4 @@
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+![https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjbxdqvn9TkAhUPWK0KHUTHBpwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.google.es%2F&psig=AOvVaw3SegUyNf1GSSzFeBd6EA1t&ust=1568685595746997](/path/to/image.jpg){:class="img-responsive"}
 
 <div class="share-page">
     Share this on &rarr;
