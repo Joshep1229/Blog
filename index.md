@@ -1,8 +1,8 @@
 ## Bienvenidos a mi Blog
+Alguien muy especial me dijo que hiciera un portafolio sobre las cosas que he hecho, además que es muy genial poder compartir lo que haces con los demás, también porque siempre he sido consumidor de muchos blogs.
 
-El objetivo de este blog será tener un record del contenido que me sirve para aprender, principalmente cosas como lo relacionado con análisis de datos, tratamiento, visualización de datos y demás.
+El objetivo de este blog será tener un record del contenido -tipo un cuadernito de notas pero virtual e interactivo-qie será buenísimo para poder consultarla en el futuro y compartir lo que voy haciendo.
 
-Aunque mi  especialidad no es el desarrollo web en este lugar iré iterando para refinar el blog también porque es mucho más fácil volver a revisar los apuntes si los tienes en el mismo lugar para consultar.  
 
 ### Markdown
 
