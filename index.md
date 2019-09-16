@@ -1,4 +1,4 @@
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+<button name="button">Click me</button>
 
 <a onclick="window.history.back()">Back</a>
 ## Bienvenidos a mi Blog
