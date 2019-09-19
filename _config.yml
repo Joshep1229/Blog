@@ -2,8 +2,6 @@ theme: jekyll-theme-slate
 name: Cacharriando con Data
 footer-links: 
 linkedin: JoshepBlanco
-permalink: /about/
-
 
 {% if site.linkedin_username %}
 <li>
